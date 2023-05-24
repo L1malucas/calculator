@@ -21,4 +21,5 @@ Este é um projeto simples de calculadora implementado em C#. A calculadora perm
 **Observação:** Certifique-se de inserir valores válidos ao solicitar as entradas, caso contrário, o programa poderá lançar exceções.
 
 ## Contribuição
+
 Contribuições para melhorias são bem-vindas. Sinta-se à vontade para abrir problemas ou enviar solicitações de pull.
