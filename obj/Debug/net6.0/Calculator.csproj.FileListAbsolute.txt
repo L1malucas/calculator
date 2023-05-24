@@ -1,0 +1,15 @@
+/home/lima/Code/Calculator/bin/Debug/net6.0/Calculator
+/home/lima/Code/Calculator/bin/Debug/net6.0/Calculator.deps.json
+/home/lima/Code/Calculator/bin/Debug/net6.0/Calculator.runtimeconfig.json
+/home/lima/Code/Calculator/bin/Debug/net6.0/Calculator.dll
+/home/lima/Code/Calculator/bin/Debug/net6.0/ref/Calculator.dll
+/home/lima/Code/Calculator/bin/Debug/net6.0/Calculator.pdb
+/home/lima/Code/Calculator/obj/Debug/net6.0/Calculator.csproj.AssemblyReference.cache
+/home/lima/Code/Calculator/obj/Debug/net6.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/lima/Code/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfoInputs.cache
+/home/lima/Code/Calculator/obj/Debug/net6.0/Calculator.AssemblyInfo.cs
+/home/lima/Code/Calculator/obj/Debug/net6.0/Calculator.csproj.CoreCompileInputs.cache
+/home/lima/Code/Calculator/obj/Debug/net6.0/Calculator.dll
+/home/lima/Code/Calculator/obj/Debug/net6.0/ref/Calculator.dll
+/home/lima/Code/Calculator/obj/Debug/net6.0/Calculator.pdb
+/home/lima/Code/Calculator/obj/Debug/net6.0/Calculator.genruntimeconfig.cache
